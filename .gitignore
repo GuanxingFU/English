@@ -1,6 +1,8 @@
 # Ignore everything
 *
 
-# Keep all notes.md files
-!**/notes.md
+# Allow entering EnglishNotes
+!EnglishNotes/
 
+# Keep only notes.md
+!EnglishNotes/notes.md
