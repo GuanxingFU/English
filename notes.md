@@ -1,5 +1,259 @@
 ## 2026-11-08
 
+### 006
+
+> the joy may disappear pretty fast
+
+#### 中文
+
+> 快乐可能很快就会消失。
+
+#### Vocabulary
+
+- joy (B1)：快乐；喜悦
+- disappear (A2)：消失
+- pretty (A2)：相当；挺（口语）
+- fast (A1)：快速地
+
+#### Collocations
+
+- joy disappears：快乐消失
+- disappear quickly：迅速消失
+- temporary joy：短暂的快乐
+
+#### Grammar
+
+**may + 动词原形**：表示“可能会……”。
+
+**pretty + 副词**：口语中表示“相当；挺”，如 **pretty fast**（相当快）。
+
+---
+Added: 2026-11-08 13:08
+---
+
+## 2026-11-08
+
+### 005
+
+> That feeling can be pretty comforting.
+
+#### 中文
+
+> 那种感觉会让人感到相当安心、舒服。
+
+#### Vocabulary
+
+- feeling (A2)：感觉；感受
+- comforting (B2)：令人安心的；给人慰藉的
+- pretty (A2)：相当；挺（口语）
+
+#### Collocations
+
+- feel comforting：让人感到安心
+- find something comforting：觉得某事令人宽慰
+- a comforting feeling：一种安心的感觉
+
+#### Grammar
+
+**can be + 形容词**：表示“可能会是……”。
+
+**pretty + 形容词**：口语中表示“相当；挺”，如 **pretty comforting**（相当令人安心）。
+
+---
+Added: 2026-11-08 13:06
+---
+
+## 2026-11-08
+
+### 004
+
+> Sometimes it’s not really about the product. It’s more like, I’ve worked hard this week, I deserve something nice.
+
+#### 中文
+
+> 有时候，这其实不是为了买产品本身。更像是：这周我工作很努力，应该奖励自己一些好东西。
+
+#### Vocabulary
+
+- deserve (B1)：值得；应得
+- product (A2)：产品；商品
+- nice (A1)：不错的；美好的
+
+#### Collocations
+
+- work hard：努力工作
+- deserve something nice：值得得到一些好东西
+- treat yourself：犒劳自己
+- reward yourself：奖励自己
+
+#### Grammar
+
+**It’s not really about A. It’s more like B.**：表示“重点不在于 A，而更像是 B”。
+
+**I’ve worked hard**：现在完成时，强调过去的努力与现在的结果有关。
+
+**deserve + 名词**：表示“值得得到……”。
+
+---
+Added: 2026-11-08 13:05
+---
+
+## 2026-11-08
+
+### 003
+
+> a quick mood boost
+
+#### 中文
+
+> 快速改善心情；短暂提振情绪。
+
+#### Vocabulary
+
+- mood (B1)：情绪；心情
+- boost (B2)：提升；促进
+
+#### Collocations
+
+- get a mood boost：心情得到改善
+- give someone a boost：给某人鼓劲
+- a quick energy boost：快速补充能量
+
+#### Grammar
+
+**mood + boost**：名词修饰名词，表示“情绪提升”。
+
+**quick** 修饰 **mood boost**，强调效果来得快。
+
+---
+Added: 2026-11-08 13:02
+---
+
+## 2026-11-08
+
+### 002
+
+> the people close to them.
+
+#### 中文
+
+> 他们身边亲近的人。
+
+#### Vocabulary
+
+- close (B1)：亲近的；关系密切的
+
+#### Collocations
+
+- people close to someone：某人亲近的人
+- close friends：亲密的朋友
+- people close to you：你身边亲近的人
+
+#### Grammar
+
+**名词 + close to + 人**：表示“与某人关系亲近的”。
+
+这里的 **close to them** 修饰 **people**。
+
+---
+Added: 2026-11-08 12:55
+---
+
+## 2026-11-08
+
+### 001
+
+> talk in a more excited voice
+
+#### 中文
+
+> 用更兴奋、更激动的语气说话。
+
+#### Vocabulary
+
+- excited (B1)：兴奋的
+- voice (A2)：声音；语气
+
+#### Collocations
+
+- talk in a ... voice
+- an excited voice
+- a calm voice
+- a cheerful voice
+
+#### Grammar
+
+**talk in + 形容词 + voice**：表示“用……的语气说话”。
+
+---
+Added: 2026-11-08 12:51
+---
+
+## 2026-11-08
+
+### 006
+
+>but you can still tell.
+
+#### 中文
+
+>但你仍然能看得出来。
+
+#### Vocabulary
+
+- still (A2) — 仍然；依然
+- tell (B1) — 看出；辨别
+
+#### Collocations
+
+- you can tell — 你能看得出来
+- tell the difference — 区分差异
+- tell from someone's expression — 从某人的表情看出来
+
+#### Grammar
+
+**can tell** 表示“能够看出、辨别”，如 **I can tell he's happy.**（我看得出他很开心）。
+
+**still** 放在情态动词和实义动词之间，表示“仍然”，如 **can still tell**。
+
+---
+Added: 2026-11-08 12:45
+---
+
+## 2026-11-08
+
+### 004
+
+>You’ve got organized sports leagues.
+
+#### 中文
+
+>你们有组织完善的体育联赛。
+
+#### Vocabulary
+
+- organized (B1) — 有组织的；有组织安排的
+- league (B1) — 联赛；联盟
+
+#### Collocations
+
+- organized sports leagues — 有组织的体育联赛
+- join a sports league — 加入体育联赛
+- professional sports league — 职业体育联赛
+- amateur sports league — 业余体育联赛
+
+#### Grammar
+
+**You’ve got + 名词** 是口语表达，表示“你们有……”，相当于 **You have**。
+
+**organized** 在这里作形容词，表示经过组织和安排的，并不只是“整齐的”。
+
+---
+Added: 2026-11-08 12:38
+---
+
+## 2026-11-08
+
 ### 002
 
 >It was simple and pretty low-key.
