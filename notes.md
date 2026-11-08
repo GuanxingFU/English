@@ -1,3 +1,38 @@
+## 2026-11-08
+
+### 002
+
+>It was simple and pretty low-key.
+
+#### 中文
+
+>这件事很简单，也相当低调。
+
+#### Vocabulary
+
+- simple (A2) — 简单的
+- low-key (B2) — 低调的；不张扬的；不铺张的 low-key = 有点儿 / 其实有点儿（副词）表达一种不太张扬、比较含蓄的情绪或想法。
+* I’m low-key excited. — 我其实有点兴奋。
+* I’m low-key + 形容词：我其实有点……
+* I low-key + 动词：我其实有点想……
+* low-key + 名词：低调的……
+
+#### Collocations
+
+- keep things low-key — 保持低调
+- a low-key event — 简单低调的活动
+- a low-key celebration — 不铺张的庆祝活动
+
+#### Grammar
+
+**pretty + 形容词** 表示“相当……”，如 **pretty low-key**（相当低调）。
+
+**low-key** 是口语中常用的形容词，表示不张扬、不正式或不铺张。
+
+---
+Added: 2026-11-08 11:31
+---
+
 ## 2026-07-26
 
 ### 34
