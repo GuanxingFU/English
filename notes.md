@@ -1,5 +1,255 @@
 ## 2026-11-08
 
+### 5
+
+> Even a small problem can feel like the end of the world.
+
+#### 中文
+
+> 即使是一个小问题，也可能让人觉得天都要塌了。
+
+#### Vocabulary
+
+- even (A2)：即使；甚至
+- problem (A2)：问题
+- the end of the world (B2)：世界末日；天塌下来
+
+#### Collocations
+
+- a small problem：一个小问题
+- feel like：感觉像是
+- the end of the world：世界末日
+
+#### Grammar
+
+**feel like + 名词** 表示“感觉像……”。
+
+**can + 动词原形** 表示可能性。
+
+---
+Added: 2026-11-08 21:41
+---
+
+## 2026-11-08
+
+### 5
+
+> Even a small problem can feel like the end of the world.
+
+#### 中文
+
+> 即使是一个小问题，也可能让人觉得天都要塌了。
+
+#### Vocabulary
+
+- even (A2)：即使；甚至
+- problem (A2)：问题
+- the end of the world (B2)：世界末日；天塌下来
+
+#### Collocations
+
+- a small problem：一个小问题
+- feel like：感觉像是
+- the end of the world：世界末日
+
+#### Grammar
+
+**feel like + 名词** 表示“感觉像……”。
+
+**can + 动词原形** 表示可能性。
+
+---
+Added: 2026-11-08 21:40
+---
+
+## 2026-11-08
+
+### 5
+
+> Even a small problem can feel like the end of the world.
+
+#### 中文
+
+> 即使是一个小问题，也可能让人觉得天都要塌了。
+
+#### Vocabulary
+
+- even (A2)：即使；甚至
+- problem (A2)：问题
+- the end of the world (B2)：世界末日；天塌下来
+
+#### Collocations
+
+- a small problem：一个小问题
+- feel like：感觉像是
+- the end of the world：世界末日
+
+#### Grammar
+
+**feel like + 名词** 表示“感觉像……”。
+
+**can + 动词原形** 表示可能性。
+
+---
+Added: 2026-11-08 21:40
+---
+
+按照如下的markdown格式输出纯Markdown源码，而不是plain text!简约不啰嗦，捡最重要的说！不要啰嗦！
+## 日期
+
+### 编号
+
+>英文原句
+
+#### 中文
+
+>中文翻译
+
+#### Vocabulary
+
+- slow down (B1)
+
+- trend (B2)
+
+#### Collocations
+
+- move faster
+
+- slow down
+
+- not see something happening
+
+#### Grammar
+
+**see + 宾语 + V-ing** 表示“看到/认为某事正在发生”，如 **I don't see that slowing down**（我不认为这种情况会放缓）。**much** 修饰 **slowing down**，表示“不会放缓太多”。even a small problem can feel like the end of the world.
+
+---
+Added: 2026-11-08 21:40
+---
+
+## 2026-11-08
+
+### 4
+
+> If someone is miserable all the time
+
+#### 中文
+
+> 如果一个人一直都很痛苦／闷闷不乐
+
+#### Vocabulary
+
+- miserable (B2)：痛苦的；非常不开心的
+- all the time (A2)：一直；总是
+
+#### Collocations
+
+- feel miserable：感到痛苦
+- absolutely miserable：极其难受
+- be miserable all the time：一直不开心
+
+#### Grammar
+
+**If + 一般现在时** 表示条件，后面通常接主句。
+
+**miserable** 是形容词，描述持续的不开心或痛苦状态。
+
+---
+Added: 2026-11-08 21:39
+---
+
+## 2026-11-08
+
+### 3
+
+> Stress feels lighter too.
+
+#### 中文
+
+> 压力也感觉减轻了。
+
+#### Vocabulary
+
+- stress (B1)：压力
+- lighter (A2)：更轻的；更轻松的
+
+#### Collocations
+
+- feel less stressed：感觉压力更小
+- reduce stress：减轻压力
+- feel lighter：感觉轻松一些
+
+#### Grammar
+
+**feel + 形容词** 表示“感觉……”。
+
+**lighter** 是 light 的比较级，表示压力变得更轻、负担更小。
+
+---
+Added: 2026-11-08 21:26
+---
+
+## 2026-11-08
+
+### 2
+
+> have more energy to move around
+
+#### 中文
+
+> 有更多精力活动；更有活力四处走动
+
+#### Vocabulary
+
+- energy (B1)：精力；能量
+- move around (B1)：四处走动；活动
+
+#### Collocations
+
+- have more energy：精力更充沛
+- move around freely：自由活动
+- have the energy to do something：有精力做某事
+
+#### Grammar
+
+**have the energy to do something** 表示“有精力做某事”。
+
+**move around** 表示四处活动、走动。
+
+---
+Added: 2026-11-08 21:25
+---
+
+## 2026-11-08
+
+### 1
+
+> but mostly
+
+#### 中文
+
+> 但主要是；不过大部分情况下
+
+#### Vocabulary
+
+- mostly (B1)：主要地；大多数情况下
+
+#### Collocations
+
+- but mostly：但主要是
+- mostly because：主要是因为
+- mostly due to：主要由于
+
+#### Grammar
+
+**mostly** 是副词，表示“大部分、主要”，用于强调某事的主要部分或原因。
+
+---
+Added: 2026-11-08 21:23
+---
+
+## 2026-11-08
+
 ### 006
 
 > the joy may disappear pretty fast
