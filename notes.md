@@ -1,5 +1,286 @@
 ## 2026-11-08
 
+### 13
+
+> They don’t let one bad thing take over everything.
+
+#### 中文
+
+> 他们不会让一件糟糕的事情影响到所有事情。
+
+#### Vocabulary
+
+- take over (B2)：接管；控制；占据
+- everything (A2)：一切；所有事情
+
+#### Collocations
+
+- take over everything：占据一切
+- let something take over：任由某事控制
+- one bad thing：一件糟糕的事情
+
+#### Grammar
+
+**let + 宾语 + 动词原形** 表示“让某人/某事做某事”。
+
+**take over** 在这里表示负面情绪或事件占据整个生活。
+
+---
+Added: 2026-11-08 22:03
+---
+
+## 2026-11-08
+
+### 12
+
+> ruin their whole day
+
+#### 中文
+
+> 毁掉他们一整天的好心情；让他们一整天都过得糟糕
+
+#### Vocabulary
+
+- ruin (B2)：毁掉；破坏
+- whole (A2)：整个的；全部的
+
+#### Collocations
+
+- ruin someone's day：毁了某人的一天
+- ruin the whole day：毁掉一整天
+- ruin someone's mood：破坏某人的心情
+
+#### Grammar
+
+**ruin + 名词** 表示“毁掉某事”。
+
+**whole + 名词** 表示“整个……”，如 **the whole day**（一整天）。
+
+---
+Added: 2026-11-08 22:02
+---
+
+## 2026-11-08
+
+### 11
+
+> what they’re missing
+
+#### 中文
+
+> 他们所缺少的东西；他们错过的东西
+
+#### Vocabulary
+
+- miss (B1)：错过；缺少；想念
+- missing (B1)：缺失的；错过的
+
+#### Collocations
+
+- miss out on something：错过某事
+- realize what you're missing：意识到自己错过了什么
+- be missing something：缺少某样东西
+
+#### Grammar
+
+**what + 主语 + 动词** 构成名词性从句，表示“……的东西/事情”。
+
+**what they're missing** 可以作句子的主语或宾语。
+
+---
+Added: 2026-11-08 22:02
+---
+
+## 2026-11-08
+
+### 11
+
+> what they’re missing
+
+#### 中文
+
+> 他们所缺少的东西；他们错过的东西
+
+#### Vocabulary
+
+- miss (B1)：错过；缺少；想念
+- missing (B1)：缺失的；错过的
+
+#### Collocations
+
+- miss out on something：错过某事
+- realize what you're missing：意识到自己错过了什么
+- be missing something：缺少某样东西
+
+#### Grammar
+
+**what + 主语 + 动词** 构成名词性从句，表示“……的东西/事情”。
+
+**what they're missing** 可以作句子的主语或宾语。
+
+---
+Added: 2026-11-08 22:02
+---
+
+## 2026-11-08
+
+### 10
+
+> feel completely differently about it
+
+#### 中文
+
+> 对这件事有完全不同的感受／看法。
+
+#### Vocabulary
+
+- completely (B1)：完全地
+- differently (B1)：不同地；以不同方式
+
+#### Collocations
+
+- feel differently about something：对某事有不同感受
+- think differently about something：对某事有不同看法
+- feel strongly about something：对某事有强烈感受
+
+#### Grammar
+
+**feel + 副词 + about something** 表示“对某事有某种感受”。
+
+**differently** 是副词，修饰动词 **feel**。
+
+---
+Added: 2026-11-08 21:59
+---
+
+## 2026-11-08
+
+### 9
+
+> Two people can go through the same thing.
+
+#### 中文
+
+> 两个人可能经历同一件事。
+
+#### Vocabulary
+
+- go through (B1)：经历；经受
+- the same thing：同一件事
+
+#### Collocations
+
+- go through the same experience：经历相同的经历
+- go through difficult times：经历艰难时期
+- deal with the same problem：面对同样的问题
+
+#### Grammar
+
+**go through + 名词** 表示“经历某事”。
+
+**can + 动词原形** 表示可能性。
+
+---
+Added: 2026-11-08 21:58
+---
+
+## 2026-11-08
+
+### 7
+
+> It definitely helps people feel stronger physically and mentally.
+
+#### 中文
+
+> 它确实能帮助人们在身体和精神上变得更强大。
+
+#### Vocabulary
+
+- definitely (B1)：确实；肯定
+- physically (B2)：身体上
+- mentally (B2)：精神上；心理上
+
+#### Collocations
+
+- feel physically stronger：身体更强壮
+- mentally stronger：心理更强大
+- physical and mental health：身心健康
+
+#### Grammar
+
+**help + 宾语 + 动词原形** 表示“帮助某人做某事”。
+
+**physically and mentally** 分别修饰 **stronger**，表示身体和精神两个方面。
+
+---
+Added: 2026-11-08 21:49
+---
+
+## 2026-11-08
+
+### 6
+
+> Happy people are less likely to shut themselves away.
+
+#### 中文
+
+> 快乐的人不太容易把自己封闭起来。
+
+#### Vocabulary
+
+- less likely (B1)：不太可能；较不容易
+- shut away (B2)：把自己封闭起来；与外界隔绝
+
+#### Collocations
+
+- be less likely to do something：不太可能做某事
+- shut yourself away：把自己封闭起来
+- shut yourself away from others：与他人隔绝
+
+#### Grammar
+
+**be less likely to do something** 表示“不太可能做某事”。
+
+**themselves** 是反身代词，指代主语 **happy people**。
+
+---
+Added: 2026-11-08 21:48
+---
+
+## 2026-11-08
+
+### 5
+
+> Even a small problem can feel like the end of the world.
+
+#### 中文
+
+> 即使是一个小问题，也可能让人觉得天都要塌了。
+
+#### Vocabulary
+
+- even (A2)：即使；甚至
+- problem (A2)：问题
+- the end of the world (B2)：世界末日；天塌下来
+
+#### Collocations
+
+- a small problem：一个小问题
+- feel like：感觉像是
+- the end of the world：世界末日
+
+#### Grammar
+
+**feel like + 名词** 表示“感觉像……”。
+
+**can + 动词原形** 表示可能性。
+
+---
+Added: 2026-11-08 21:42
+---
+
+## 2026-11-08
+
 ### 4
 
 > If someone is miserable all the time
