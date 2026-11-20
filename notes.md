@@ -1,3 +1,33 @@
+## 2026-11-20
+
+### 008
+
+> Get used to the stock market's volatility. It's normal and it's a daily occurrence.
+
+#### 中文
+
+> 要习惯股市的波动性。它很正常，而且每天都会发生。
+
+#### Vocabulary
+
+- volatility (C1)：波动性
+- occurrence (C1)：发生的事；事件
+- correction (C1)：市场回调
+
+#### Collocations
+
+- stock market volatility：股市波动
+- give in to temptation：屈服于诱惑
+- buy and hold：买入并长期持有
+
+#### Grammar
+
+**get used to + 名词 / doing**：习惯于……
+
+---
+Added: 2026-11-20 18:40
+---
+
 ## 2026-11-08
 
 ### 006
