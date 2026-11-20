@@ -1,5 +1,204 @@
 ## 2026-11-08
 
+### 006
+
+> the joy may disappear pretty fast
+
+#### 中文
+
+> 快乐可能很快就会消失。
+
+#### Vocabulary
+
+- joy (B1)：快乐；喜悦
+- disappear (A2)：消失
+- pretty (A2)：相当；挺（口语）
+- fast (A1)：快速地
+
+#### Collocations
+
+- joy disappears：快乐消失
+- disappear quickly：迅速消失
+- temporary joy：短暂的快乐
+
+#### Grammar
+
+**may + 动词原形**：表示“可能会……”。
+
+---
+Added: 2026-11-20 18:17
+---
+
+## 2026-11-08
+
+### 006
+
+> the joy may disappear pretty fast
+
+#### 中文
+
+> 快乐可能很快就会消失。
+
+#### Vocabulary
+
+- joy (B1)：快乐；喜悦
+- disappear (A2)：消失
+- pretty (A2)：相当；挺（口语）
+- fast (A1)：快速地
+
+#### Collocations
+
+- joy disappears：快乐消失
+- disappear quickly：迅速消失
+- temporary joy：短暂的快乐
+
+#### Grammar
+
+**may + 动词原形**：表示“可能会……”。
+
+---
+Added: 2026-11-20 18:16
+---
+
+## 2026-11-08
+
+### 006
+
+> the joy may disappear pretty fast
+
+#### 中文
+
+> 快乐可能很快就会消失。
+
+#### Vocabulary
+
+- joy (B1)：快乐；喜悦
+- disappear (A2)：消失
+- pretty (A2)：相当；挺（口语）
+- fast (A1)：快速地
+
+#### Collocations
+
+- joy disappears：快乐消失
+- disappear quickly：迅速消失
+- temporary joy：短暂的快乐
+
+#### Grammar
+
+**may + 动词原形**：表示“可能会……”。
+
+**pretty + 副词**：口语中表示“相当；挺”，如 **pretty fast**（相当快）。
+
+---
+Added: 2026-11-20 18:11
+---
+
+tell application "System Events"
+    keystroke "v" using command down
+    delay 0.2
+    key code 36
+end tell
+
+---
+Added: 2026-11-20 17:55
+---
+
+## 2026-11-09
+
+### 3
+
+> Remembrance Day
+
+#### 中文
+
+> 阵亡将士纪念日（加拿大每年11月11日，纪念在战争中牺牲的军人）。
+
+#### Vocabulary
+
+- remembrance (B2)：纪念；缅怀
+- sacrifice (B2)：牺牲
+
+#### Collocations
+
+- Remembrance Day ceremony：阵亡将士纪念日仪式
+- pay tribute to：向……致敬
+- honour the fallen：缅怀阵亡者
+
+#### Grammar
+
+**remembrance** 是名词，来自动词 **remember**（记住、纪念）。
+
+**Remembrance Day** 是加拿大的法定纪念日。
+
+---
+Added: 2026-11-09 22:42
+---
+
+## 2026-11-09
+
+### 2
+
+> our school community will come together to observe Remembrance Day
+
+#### 中文
+
+> 我们学校全体师生将齐聚一堂，共同纪念阵亡将士纪念日。
+
+#### Vocabulary
+
+- community (B1)：社区；群体
+- observe (B2)：纪念；庆祝（节日或纪念日）
+- Remembrance Day (B2)：阵亡将士纪念日（加拿大11月11日）
+
+#### Collocations
+
+- school community：学校全体师生
+- come together：齐聚一堂；团结起来
+- observe Remembrance Day：纪念阵亡将士纪念日
+
+#### Grammar
+
+**come together to do something**：聚在一起做某事。
+
+**observe + 节日/纪念日**：表示纪念或庆祝某个节日。
+
+---
+Added: 2026-11-09 22:42
+---
+
+## 2026-11-09
+
+### 1
+
+> As autumn fully settles in
+
+#### 中文
+
+> 随着秋意渐浓 / 随着秋天完全来临
+
+#### Vocabulary
+
+- autumn (B1)：秋天
+- settle in (B2)：逐渐到来；稳定下来
+
+#### Collocations
+
+- autumn settles in：秋意渐浓
+- fully settle in：完全到来
+- settle into a routine：逐渐适应日常生活
+
+#### Grammar
+
+**As + 主语 + 谓语**：表示“随着……；当……时”。
+
+**settle in**：表示某个季节、天气或状态逐渐到来并稳定下来。
+
+---
+Added: 2026-11-09 22:18
+---
+
+## 2026-11-08
+
 ### 13
 
 > They don’t let one bad thing take over everything.
