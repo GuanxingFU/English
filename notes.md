@@ -1,3 +1,177 @@
+## 2026-11-21
+
+### 010
+
+> 10, 20 years down the road
+
+#### 中文
+
+> 十年、二十年之后；未来十年、二十年后。
+
+#### Vocabulary
+
+- down the road (B2)：将来；在未来
+- decade (B2)：十年
+
+#### Collocations
+
+- 10 years down the road：十年之后
+- 20 years down the road：二十年之后
+- somewhere down the road：未来某个时候
+
+#### Grammar
+
+**时间 + down the road**：表示“从现在算起，经过一段时间之后”。
+
+这里的 **down the road** 是习语，并非字面上的“沿着道路往下走”。
+
+---
+Added: 2026-11-21 23:25
+---
+
+## 2026-11-21
+
+### 008
+
+> Bright-line moral principles are not the correct way to make decisions.
+
+#### 中文
+
+> 明确而绝对的道德原则并不是做决定的正确方式。
+
+#### Vocabulary
+
+- bright-line (C1)：明确的；界限清晰的
+- moral (B2)：道德的
+- principle (B2)：原则
+- decision (B1)：决定
+
+#### Collocations
+
+- moral principles：道德原则
+- make decisions：做决定
+- bright-line rules：明确的规则
+
+#### Grammar
+
+**the correct way to do something**：表示“做某事的正确方式”。
+
+**the way to make decisions**：这里的 to make decisions 是不定式，修饰 way，说明具体做什么。
+
+---
+Added: 2026-11-21 23:23
+---
+
+## 2026-11-21
+
+### 007
+
+> They have a lot of real estate in San Francisco where they hold conferences, sometimes retreats.
+
+#### 中文
+
+> 他们在旧金山拥有大量房地产，用来举办会议，有时也举办静修活动。
+
+#### Vocabulary
+
+- real estate (B2)：房地产
+- conference (B1)：会议
+- retreat (B2)：静修活动；短期 retreat
+
+#### Collocations
+
+- real estate：房地产
+- hold conferences：举办会议
+- hold retreats：举办静修活动
+
+#### Grammar
+
+**where 引导定语从句**：修饰 San Francisco，说明他们在那里举办会议和静修活动。
+
+**hold + 活动**：表示“举办某项活动”。
+
+**sometimes**：表示“有时”，修饰后面的活动。
+
+---
+Added: 2026-11-21 23:21
+---
+
+#### Grammar：was when 怎么理解？
+
+原句：
+
+> 2012 or so was when the movement started to have a lot of really big pull.
+
+这里可以拆成：
+
+- **2012 or so**：大约2012年
+- **was when**：就是……的时候
+- **the movement started**：这场运动开始
+- **to have a lot of pull**：产生很大的影响力
+
+整体意思：
+
+> 大约2012年，就是这场运动开始产生巨大影响力的时候。
+
+**核心结构：**
+
+**时间 + was when + 句子**
+
+表示“某个时间就是……发生的时候”。
+
+例如：
+
+- 2020 was when everything changed.
+- 2020年就是一切发生改变的时候。
+
+- That was when I started learning English.
+- 那就是我开始学英语的时候。
+
+**注意：**
+
+这里的 when 引导表语从句，补充说明 2012 年是一个什么样的时间。
+
+可以把它理解成：
+
+2012 was the time when the movement started.
+
+---
+Added: 2026-11-21 23:18
+---
+
+## 2026-11-21
+
+### 005
+
+> So I'd like to start with that so people understand that, you know, a lot of effective altruists starting in, you know, 2012 or so was when really the movement started to have a lot of really big pull.
+
+#### 中文
+
+> 所以我想从这一点开始讲，让大家明白，很多有效利他主义者大约从2012年开始出现，那时这场运动才真正开始产生很大的影响力。
+
+#### Vocabulary
+
+- movement (B1)：运动；活动
+- pull (B2)：影响力；吸引力
+
+#### Collocations
+
+- start with：从……开始
+- have a lot of pull：具有很大影响力
+- effective altruists：有效利他主义者
+
+#### Grammar
+
+**I'd like to + 动词原形**：表示“我想……”，语气礼貌。
+
+**so (that) + 句子**：表示“以便……”，引导目的状语从句。
+
+**2012 or so**：表示“大约2012年”，or so 放在数字后表示“大约”。
+
+---
+Added: 2026-11-21 23:18
+---
+
 ## 2026-11-20
 
 ### 008
