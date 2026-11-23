@@ -1,3 +1,63 @@
+## 2026-11-22
+
+### 013
+
+> have a lot of really big pull.
+
+#### 中文
+
+> 有很大的影响力。
+
+#### Vocabulary
+
+- pull (B2)：影响力；吸引力
+
+#### Collocations
+
+- have pull：有影响力
+- political pull：政治影响力
+- have a lot of pull：有很大的影响力
+
+#### Grammar
+
+**have + pull**：这里的 **pull** 是名词，表示影响力、号召力，而不是字面上的“拉”。
+
+**a lot of + 名词**：表示“很多；很大”，这里修饰不可数名词 **pull**。
+
+---
+Added: 2026-11-22 22:28
+---
+
+## 2026-11-22
+
+### 011
+
+> specific
+
+#### 中文
+
+> 具体的；明确的；特定的
+
+#### Vocabulary
+
+- specific (B1)：具体的；明确的
+
+#### Collocations
+
+- specific details：具体细节
+- specific requirements：具体要求
+- be specific：具体一点
+
+#### Grammar
+
+**specific + 名词**：表示“具体的/特定的……”，如 **specific details**（具体细节）。
+
+**be specific**：表示“具体一点；明确一点”。
+
+---
+Added: 2026-11-22 22:19
+---
+
 ## 2026-11-21
 
 ### 010
